@@ -55,9 +55,9 @@
   border-bottom: 1px solid var(--border-color-dark);
 }
 
-.mobile_header .mobile_logo img {
+/*.mobile_header .mobile_logo img {
   width: 150px;
-}
+}*/
 
 .mobile_header .bottom_content {
   position: relative;
